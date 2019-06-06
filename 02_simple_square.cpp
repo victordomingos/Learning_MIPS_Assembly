@@ -1,4 +1,4 @@
-// Calculate the square of a number (exercise: convert this to Assembly)
+// Calculate the square of a number (exercise: code in C++, then in Assembly)
 // 2019-06-06 Victor Domingos
 
 #include <iostream>
